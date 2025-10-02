@@ -1,0 +1,5 @@
+[functions.send-notification]
+enabled = true
+verify_jwt = false  # set true in production
+import_map = "./functions/send-notification/deno.json"
+entrypoint = "./functions/send-notification/index.ts"

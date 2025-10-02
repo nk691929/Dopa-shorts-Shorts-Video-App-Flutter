@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652912202407",
+    "project_id": "dopashorts-2fdaf",
+    "storage_bucket": "dopashorts-2fdaf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652912202407:android:f7449afe577d8a8d04c182",
+        "android_client_info": {
+          "package_name": "com.example.dopa_shorts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDybrYhBJXja5ET1mn_wOpHjiOzV3Mr5MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
