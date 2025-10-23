@@ -92,5 +92,5 @@ Users can upload, view, like, follow, and get real-time push notifications for n
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/dopa_shorts.git
+git clone https://github.com/nk691/dopa_shorts.git
 cd dopa_shorts
